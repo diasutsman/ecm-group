@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tracking - ECM Group</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
+  <script defer src="app.js"></script>
+</head>
+<body x-data="overlay('TRACKING.png')" class="bg-white" style="font-family: 'Montserrat', sans-serif; min-height: 970px;">
+  <div class="min-h-screen" style="min-height: 970px;">
+    <header class="w-full" style="background-color: #0B1627;">
+      <div class="max-w-6xl mx-auto flex items-center justify-between py-6 px-8 text-white">
+        <div class="flex items-center gap-4">
+          <!-- <div class="w-12 h-12 rounded-full border-2 border-amber-400 flex items-center justify-center">
+            <span class="text-lg font-bold">EC</span>
+          </div>
+          <p class="text-3xl font-bold tracking-wide">ECM GROUP</p> -->
+          <img src="app-logo.png" alt="" style="height: 88px;">
+        </div>
+        <nav class="hidden md:flex items-center gap-10 text-sm font-semibold">
+          <span>Eka Cipta Mandiri</span>
+          <span>Express Cargo Airlines</span>
+          <a href="tracking.html" class="hover:text-amber-300">Tracking</a>
+        </nav>
+        <div class="flex items-center gap-4">
+          <a href="#" class="px-6 py-2 rounded-full text-sm font-bold" style="background:#C89E66;">BOOKING</a>
+          <a href="login.html" class="px-8 py-2 rounded-full text-sm font-bold" style="background:#C89E66;">LOGIN</a>
+        </div>
+      </div>
+    </header>
+
+    <main class="relative flex flex-col items-center justify-start pt-16 px-6" style="min-height: calc(970px - 112px);">
+      <div class="absolute inset-0 flex items-center justify-center opacity-10 pointer-events-none">
+        <svg width="600" height="600" viewBox="0 0 200 200" fill="none" stroke="#C89E66" stroke-width="6" class="text-amber-300">
+          <circle cx="100" cy="70" r="25" />
+          <path d="M100 195c30-50 50-80 50-110a50 50 0 1 0-100 0c0 30 20 60 50 110z" />
+        </svg>
+      </div>
+      <div class="w-full max-w-5xl relative">
+        <h2 class="text-2xl font-bold" style="color: #141F2E;">Track your package</h2>
+        <p class="text-sm text-black mt-1">Monday , 05 December 2025</p>
+      </div>
+      <div class="mt-8 w-full flex justify-center">
+        <div class="w-full" style="max-width: 1031px; background: #F9F9F9; border-radius: 41px; box-shadow: 1px 5px 5px rgba(0,0,0,0.25);">
+          <div class="flex flex-col items-center py-12 px-10 text-center gap-8">
+            <div class="flex flex-col items-center gap-4">
+              <div class="w-32 h-2 rounded-full bg-orange-200"></div>
+              <div class="w-48 h-32 bg-gradient-to-b from-orange-100 to-orange-200 rounded-3xl"></div>
+            </div>
+            <div class="flex items-center bg-white" style="width: 615px; height: 62px; border-radius: 14px; box-shadow: 0px 4px 11.9px rgba(0,0,0,0.25);">
+              <div class="flex items-center px-4 gap-3 flex-1">
+                <svg width="32" height="32" fill="none" stroke="#ADADAD" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" viewBox="0 0 24 24">
+                  <rect x="3" y="6" width="18" height="13" rx="2" />
+                  <path d="M3 10h18" />
+                  <path d="M8 14h.01" />
+                  <path d="M12 14h.01" />
+                </svg>
+                <input type="text" placeholder="NUMBER SMU" class="flex-1 text-gray-400 text-lg outline-none" />
+              </div>
+              <div class="flex items-center justify-center" style="width: 67px; height: 62px; background: #DBA042; border-radius: 14px;">
+                <svg width="24" height="24" fill="none" stroke="#fff" stroke-width="2" viewBox="0 0 24 24">
+                  <path d="M7 15l5-5 5 5" stroke-linecap="round" stroke-linejoin="round" />
+                </svg>
+              </div>
+            </div>
+            <div class="flex items-center justify-center gap-10 w-full">
+              <a href="tracking-detail.html" class="text-lg font-bold text-white" style="width: 273px; height: 62px; border-radius: 15px; background:#E85454; box-shadow: 0px 4px 4px rgba(0,0,0,0.25); display:flex; align-items:center; justify-content:center;">TRACKING</a>
+              <a href="login.html" class="text-lg font-bold" style="width: 273px; height: 62px; border-radius: 15px; background:#141F2E; color:#C89E66; box-shadow: 0px 4px 4px rgba(0,0,0,0.25); display:flex; align-items:center; justify-content:center;">LOGIN</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+
+  <div x-show="show" x-transition class="fixed inset-0 z-50 pointer-events-none" :style="`background-image:url('${image}'); opacity:${opacity}; background-size:cover; background-position:center;`"></div>
+</body>
+</html>
