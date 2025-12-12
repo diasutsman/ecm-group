@@ -1,0 +1,1380 @@
+/* TRACKING */
+
+position: relative;
+width: 1440px;
+height: 1334px;
+
+background: #FFFFFF;
+
+
+/* Group 59 */
+
+position: absolute;
+width: 1700px;
+height: 1296px;
+left: -118px;
+top: 0px;
+
+
+
+/* Pict */
+
+position: absolute;
+width: 1700px;
+height: 1133px;
+left: -118px;
+top: 21px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1440px;
+height: 845px;
+left: 0px;
+top: 125px;
+
+background: #FFFFFF;
+mix-blend-mode: multiply;
+
+
+/* business-logistics-smart-logistics-technologies-commercial-delivery-concept-line-art-illustration 1 */
+
+position: absolute;
+width: 1700px;
+height: 1133px;
+left: -118px;
+top: 21px;
+
+background: url(business-logistics-smart-logistics-technologies-commercial-delivery-concept-line-art-illustration.png);
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1440px;
+height: 845px;
+left: 0px;
+top: 125px;
+
+background: #DBA042;
+mix-blend-mode: screen;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 821px;
+left: 0px;
+top: 149px;
+
+background: #FFFFFF;
+mix-blend-mode: multiply;
+
+
+/* Password */
+
+position: absolute;
+visibility: hidden;
+width: 298px;
+height: 46px;
+left: 307px;
+top: 35px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 298px;
+height: 46px;
+left: 307px;
+top: 35px;
+
+background: #FFFFFF;
+border: 2px solid #CECECE;
+border-radius: 12px;
+
+
+/* Seacrh */
+
+position: absolute;
+width: 53px;
+height: 18px;
+left: 373px;
+top: 49px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #CECECE;
+
+
+
+/* mdi:password-outline */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 325px;
+top: 41px;
+
+
+
+/* ic:baseline-search */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: -4px;
+top: -2px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 14.62%;
+top: 12.5%;
+bottom: 14.62%;
+
+background: #CECECE;
+
+
+/* HEAD */
+
+position: absolute;
+width: 1440px;
+height: 125px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 1440px;
+height: 125px;
+left: 0px;
+top: 0px;
+
+background: #141F2E;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Eka Cipta Mandiri */
+
+position: absolute;
+width: 142px;
+height: 18px;
+left: 632px;
+top: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Express Cargo Airlines */
+
+position: absolute;
+width: 180px;
+height: 18px;
+left: 789px;
+top: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Tracking */
+
+position: absolute;
+width: 71px;
+height: 18px;
+left: 989px;
+top: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Group 60 */
+
+position: absolute;
+width: 138px;
+height: 40px;
+left: 1080px;
+top: 46px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 138px;
+height: 40px;
+left: 1080px;
+top: 46px;
+
+background: #C89E66;
+border-radius: 26px;
+
+
+/* BOOKING */
+
+position: absolute;
+width: 77px;
+height: 18px;
+left: 1110px;
+top: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Group 61 */
+
+position: absolute;
+width: 112px;
+height: 40px;
+left: 1238px;
+top: 46px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 112px;
+height: 40px;
+left: 1238px;
+top: 46px;
+
+background: #C89E66;
+border-radius: 26px;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 51px;
+height: 18px;
+left: 1268px;
+top: 58px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 12 */
+
+position: absolute;
+width: 1250px;
+height: 1118px;
+left: 100px;
+top: 178px;
+
+background: #FFFFFF;
+box-shadow: 0px 5px 5.3px rgba(0, 0, 0, 0.25);
+border-radius: 35px;
+
+
+/* Group 66 */
+
+position: absolute;
+width: 673px;
+height: 93px;
+left: 156px;
+top: 209px;
+
+
+
+/* Rectangle 13 */
+
+position: absolute;
+width: 322px;
+height: 38px;
+left: 161px;
+top: 264px;
+
+background: #C89E66;
+border-radius: 15px;
+
+
+/* Number SMU : #145952gh56526 */
+
+position: absolute;
+width: 308px;
+height: 27px;
+left: 179px;
+top: 272px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+
+color: #FFFFFF;
+
+
+
+/* Tracking Detail Surat Muatan Udara */
+
+position: absolute;
+width: 673px;
+height: 44px;
+left: 156px;
+top: 209px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Group 84 */
+
+position: absolute;
+width: 853px;
+height: 172px;
+left: 167px;
+top: 366px;
+
+
+
+/* Group 72 */
+
+position: absolute;
+width: 853px;
+height: 172px;
+left: 167px;
+top: 366px;
+
+
+
+/* Group 67 */
+
+position: absolute;
+width: 822px;
+height: 172px;
+left: 167px;
+top: 366px;
+
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 39px;
+height: 39px;
+left: 220px;
+top: 395px;
+
+background: #198343;
+
+
+/* 1 */
+
+position: absolute;
+width: 8px;
+height: 24px;
+left: 235px;
+top: 403px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* BKD */
+
+position: absolute;
+width: 50px;
+height: 18px;
+left: 220px;
+top: 454px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #0D823E;
+
+
+
+/* May 26, 2025 09:56 */
+
+position: absolute;
+width: 143px;
+height: 18px;
+left: 167px;
+top: 475px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #0D823E;
+
+
+
+/* 100 PCS */
+
+position: absolute;
+width: 65px;
+height: 18px;
+left: 206px;
+top: 520px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #0D823E;
+
+
+
+/* 250 PCS */
+
+position: absolute;
+width: 65px;
+height: 18px;
+left: 457px;
+top: 520px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #0D823E;
+
+
+
+/* DJJ */
+
+position: absolute;
+width: 32px;
+height: 18px;
+left: 224px;
+top: 366px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #0D823E;
+
+
+
+/* DJJ */
+
+position: absolute;
+width: 32px;
+height: 18px;
+left: 476px;
+top: 366px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #0D823E;
+
+
+
+/* DJJ */
+
+position: absolute;
+width: 32px;
+height: 18px;
+left: 716px;
+top: 366px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #7B7B7B;
+
+
+
+/* CGK */
+
+position: absolute;
+width: 36px;
+height: 18px;
+left: 953px;
+top: 366px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #7B7B7B;
+
+
+
+/* Group 68 */
+
+position: absolute;
+width: 143px;
+height: 98px;
+left: 418px;
+top: 395px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 39px;
+height: 39px;
+left: 470px;
+top: 395px;
+
+background: #198343;
+
+
+/* 2 */
+
+position: absolute;
+width: 12px;
+height: 24px;
+left: 484px;
+top: 403px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* RCS */
+
+position: absolute;
+width: 39px;
+height: 18px;
+left: 473px;
+top: 454px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+
+color: #0D823E;
+
+
+
+/* May 27, 2025 09:56 */
+
+position: absolute;
+width: 143px;
+height: 18px;
+left: 418px;
+top: 475px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #0D823E;
+
+
+
+/* Group 69 */
+
+position: absolute;
+width: 101px;
+height: 99px;
+left: 679px;
+top: 395px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 39px;
+height: 39px;
+left: 710px;
+top: 395px;
+
+background: #DBFFE9;
+
+
+/* 3 */
+
+position: absolute;
+width: 12px;
+height: 24px;
+left: 724px;
+top: 403px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #198343;
+
+
+
+/* DEP */
+
+position: absolute;
+width: 100px;
+height: 18px;
+left: 679px;
+top: 457px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #7B7B7B;
+
+
+
+/* May 29, 2025 */
+
+position: absolute;
+width: 101px;
+height: 18px;
+left: 679px;
+top: 476px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #7B7B7B;
+
+
+
+/* Group 70 */
+
+position: absolute;
+width: 101px;
+height: 100px;
+left: 919px;
+top: 395px;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 39px;
+height: 39px;
+left: 950px;
+top: 395px;
+
+background: #DBFFE9;
+
+
+/* 4 */
+
+position: absolute;
+width: 14px;
+height: 24px;
+left: 962px;
+top: 403px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #198343;
+
+
+
+/* ARR */
+
+position: absolute;
+width: 100px;
+height: 36px;
+left: 919px;
+top: 454px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #7B7B7B;
+
+
+
+/* May 29, 2025 */
+
+position: absolute;
+width: 101px;
+height: 18px;
+left: 919px;
+top: 477px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #7B7B7B;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 180.5px;
+height: 0px;
+left: 274px;
+top: 415px;
+
+border: 2px solid #198343;
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 180.5px;
+height: 0px;
+left: 521px;
+top: 415px;
+
+border: 2px solid #198343;
+
+
+/* Vector 3 */
+
+position: absolute;
+width: 180.5px;
+height: 0px;
+left: 759px;
+top: 415px;
+
+border: 2px solid #D6D6D6;
+
+
+/* Group 83 */
+
+position: absolute;
+visibility: hidden;
+width: 939px;
+height: 231px;
+left: 165px;
+top: 595px;
+
+
+
+/* Group 73 */
+
+position: absolute;
+width: 206px;
+height: 27px;
+left: 165px;
+top: 595px;
+
+
+
+/* ph:package-bold */
+
+position: absolute;
+width: 21px;
+height: 21px;
+left: 165px;
+top: 595px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.81%;
+right: 7.81%;
+top: 4.69%;
+bottom: 4.69%;
+
+background: #7B7B7B;
+
+
+/* Package information */
+
+position: absolute;
+width: 178px;
+height: 27px;
+left: 193px;
+top: 595px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+
+color: #7B7B7B;
+
+
+
+/* Group 76 */
+
+position: absolute;
+width: 106px;
+height: 27px;
+left: 491px;
+top: 595px;
+
+
+
+/* gg:pin */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 491px;
+top: 595px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 5.32%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 34.47%;
+right: 32.2%;
+top: 26.13%;
+bottom: 40.53%;
+
+background: #7B7B7B;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 5.32%;
+
+background: #7B7B7B;
+
+
+/* Locations */
+
+position: absolute;
+width: 83px;
+height: 27px;
+left: 514px;
+top: 595px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+
+color: #7B7B7B;
+
+
+
+/* Group 79 */
+
+position: absolute;
+width: 172px;
+height: 27px;
+left: 902px;
+top: 595px;
+
+
+
+/* gg:pin */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 902px;
+top: 595px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 5.32%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 34.47%;
+right: 32.2%;
+top: 26.13%;
+bottom: 40.53%;
+
+background: #7B7B7B;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 4.17%;
+bottom: 5.32%;
+
+background: #7B7B7B;
+
+
+/* Customer Details */
+
+position: absolute;
+width: 149px;
+height: 27px;
+left: 925px;
+top: 595px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+
+color: #7B7B7B;
+
+
+
+/* Group 74 */
+
+position: absolute;
+width: 204px;
+height: 38px;
+left: 167px;
+top: 654px;
+
+
+
+/* PICKUP DATE */
+
+position: absolute;
+width: 117px;
+height: 19px;
+left: 167px;
+top: 654px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #7B7B7B;
+
+
+
+/* 26 May, 2025 12:24:10 pm */
+
+position: absolute;
+width: 204px;
+height: 19px;
+left: 167px;
+top: 673px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+
+
+/* Group 77 */
+
+position: absolute;
+visibility: hidden;
+width: 311px;
+height: 97px;
+left: 494px;
+top: 654px;
+
+
+
+/* PICKUP LOCATIONS */
+
+position: absolute;
+width: 130px;
+height: 19px;
+left: 494px;
+top: 654px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #7B7B7B;
+
+
+
+/* Jane Smith 456 Maple Avaneu, Brooklyn, NY 11201 United States */
+
+position: absolute;
+width: 311px;
+height: 78px;
+left: 494px;
+top: 673px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+
+color: #000000;
+
+
+
+/* Group 80 */
+
+position: absolute;
+width: 130px;
+height: 43px;
+left: 905px;
+top: 654px;
+
+
+
+/* FULL NAME */
+
+position: absolute;
+width: 130px;
+height: 19px;
+left: 905px;
+top: 654px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #7B7B7B;
+
+
+
+/* Jane Smith */
+
+position: absolute;
+width: 106px;
+height: 24px;
+left: 905px;
+top: 673px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+
+color: #000000;
+
+
+
+/* Group 81 */
+
+position: absolute;
+width: 199px;
+height: 43px;
+left: 905px;
+top: 716px;
+
+
+
+/* E-MAIL */
+
+position: absolute;
+width: 130px;
+height: 19px;
+left: 905px;
+top: 716px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #7B7B7B;
+
+
+
+/* janesmith@gmail.com */
+
+position: absolute;
+width: 199px;
+height: 24px;
+left: 905px;
+top: 735px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+
+color: #000000;
+
+
+
+/* Group 82 */
+
+position: absolute;
+width: 199px;
+height: 43px;
+left: 905px;
+top: 783px;
+
+
+
+/* PHONE */
+
+position: absolute;
+width: 130px;
+height: 19px;
+left: 905px;
+top: 783px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #7B7B7B;
+
+
+
+/* +62 852 5856 5232 */
+
+position: absolute;
+width: 199px;
+height: 24px;
+left: 905px;
+top: 802px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+
+color: #000000;
+
+
+
+/* Group 78 */
+
+position: absolute;
+width: 311px;
+height: 97px;
+left: 494px;
+top: 650px;
+
+
+
+/* DROPOFF LOCATIONS */
+
+position: absolute;
+width: 144px;
+height: 19px;
+left: 494px;
+top: 650px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #7B7B7B;
+
+
+
+/* Jane Smith 456 Maple Avaneu, Brooklyn, NY 11201 United States */
+
+position: absolute;
+width: 311px;
+height: 78px;
+left: 494px;
+top: 669px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 25px;
+/* or 156% */
+
+color: #000000;
+
+
+
+/* Group 75 */
+
+position: absolute;
+width: 117px;
+height: 38px;
+left: 167px;
+top: 717px;
+
+
+
+/* ESTIMATE DROP */
+
+position: absolute;
+width: 117px;
+height: 19px;
+left: 167px;
+top: 717px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+
+color: #7B7B7B;
+
+
+
+/* 8 Days */
+
+position: absolute;
+width: 69px;
+height: 19px;
+left: 167px;
+top: 736px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+
+color: #000000;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 301px;
+height: 88px;
+left: 100px;
+top: 19px;
+
+background: url(image);

@@ -1,0 +1,569 @@
+/* LOGIN */
+
+position: relative;
+width: 1440px;
+height: 970px;
+
+background: #FFFFFF;
+
+
+/* Group 59 */
+
+position: absolute;
+width: 1440px;
+height: 970px;
+left: 0px;
+top: 0px;
+
+
+
+/* Pict */
+
+position: absolute;
+width: 1440px;
+height: 970px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 1440px;
+height: 970px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+mix-blend-mode: multiply;
+
+
+/* business-logistics-smart-logistics-technologies-commercial-delivery-concept-line-art-illustration 1 */
+
+position: absolute;
+visibility: hidden;
+width: 1700px;
+height: 1133px;
+left: 182px;
+top: -35px;
+
+background: url(business-logistics-smart-logistics-technologies-commercial-delivery-concept-line-art-illustration.png);
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 1440px;
+height: 532px;
+left: 0px;
+top: 438px;
+
+background: linear-gradient(180deg, #FFFFFF 0%, #FFBF74 100%);
+mix-blend-mode: multiply;
+
+
+/* Mask group */
+
+position: absolute;
+width: 1440px;
+height: 532px;
+left: 0px;
+top: 438px;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 1440px;
+height: 532px;
+left: 0px;
+top: 438px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0) 45.49%, #141F2E 100%);
+mix-blend-mode: multiply;
+
+
+/* Vector */
+
+position: absolute;
+width: 861.05px;
+height: 490px;
+left: 589.95px;
+top: 507px;
+
+background: #3A2A26;
+
+
+/* Password */
+
+position: absolute;
+visibility: hidden;
+width: 298px;
+height: 46px;
+left: 307px;
+top: 35px;
+
+
+
+/* Rectangle 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 298px;
+height: 46px;
+left: 307px;
+top: 35px;
+
+background: #FFFFFF;
+border: 2px solid #CECECE;
+border-radius: 12px;
+
+
+/* Seacrh */
+
+position: absolute;
+width: 53px;
+height: 18px;
+left: 373px;
+top: 49px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+
+color: #CECECE;
+
+
+
+/* mdi:password-outline */
+
+position: absolute;
+width: 34px;
+height: 34px;
+left: 325px;
+top: 41px;
+
+
+
+/* ic:baseline-search */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: -4px;
+top: -2px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 14.62%;
+top: 12.5%;
+bottom: 14.62%;
+
+background: #CECECE;
+
+
+/* Mask group */
+
+position: absolute;
+width: 600px;
+height: 970px;
+left: 0px;
+top: 0px;
+
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 600px;
+height: 970px;
+left: 0px;
+top: 0px;
+
+background: #141F2E;
+mix-blend-mode: normal;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* transport-logistics-products 1 */
+
+position: absolute;
+width: 1597px;
+height: 1064px;
+left: -477px;
+top: -47px;
+
+background: url(transport-logistics-products.jpg);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 600px;
+height: 970px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #141F2E 0%, #90BBF6 100%);
+mix-blend-mode: multiply;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Welcome back! */
+
+position: absolute;
+width: 389px;
+height: 59px;
+left: 61px;
+top: 216px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 59px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Lorem Ipsum is simply dummy text of the printing and typesetting industry. */
+
+position: absolute;
+width: 289px;
+height: 48px;
+left: 61px;
+top: 284px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 24px;
+/* or 160% */
+
+color: #FFFFFF;
+
+
+
+/* Group 65 */
+
+position: absolute;
+width: 624px;
+height: 608px;
+left: 712px;
+top: 171px;
+
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 624px;
+height: 608px;
+left: 712px;
+top: 171px;
+
+background: #C89E66;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 42px;
+
+
+/* Group 62 */
+
+position: absolute;
+width: 564px;
+height: 62px;
+left: 745px;
+top: 331px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 564px;
+height: 62px;
+left: 745px;
+top: 331px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+/* icon-park-outline:people */
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: 767px;
+top: 344px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+border: 2px solid #BCBCBC;
+
+
+/* Username */
+
+position: absolute;
+width: 105px;
+height: 24px;
+left: 823px;
+top: 352px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #BCBCBC;
+
+
+
+/* Group 63 */
+
+position: absolute;
+width: 564px;
+height: 62px;
+left: 745px;
+top: 419px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 564px;
+height: 62px;
+left: 745px;
+top: 419px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+/* Password */
+
+position: absolute;
+width: 97px;
+height: 24px;
+left: 823px;
+top: 440px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #BCBCBC;
+
+
+
+/* mdi:password-outline */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 765px;
+top: 430px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 4.17%;
+bottom: 8.33%;
+
+background: #BCBCBC;
+
+
+/* Group 64 */
+
+position: absolute;
+width: 273px;
+height: 62px;
+left: 745px;
+top: 547px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 273px;
+height: 62px;
+left: 745px;
+top: 547px;
+
+background: #141F2E;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 67px;
+height: 24px;
+left: 848px;
+top: 566px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #C89E66;
+
+
+
+/* Group 65 */
+
+position: absolute;
+width: 273px;
+height: 62px;
+left: 1036px;
+top: 547px;
+
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 273px;
+height: 62px;
+left: 1036px;
+top: 547px;
+
+background: #E85454;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+
+/* TRACKING */
+
+position: absolute;
+width: 110px;
+height: 24px;
+left: 1121px;
+top: 566px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Sign in to start your session */
+
+position: absolute;
+width: 208px;
+height: 27px;
+left: 914px;
+top: 265px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #FFFFFF;
+
+
+
+/* LUPA PASSWORD ? */
+
+position: absolute;
+width: 211px;
+height: 27px;
+left: 922px;
+top: 704px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* SIGN IN */
+
+position: absolute;
+width: 84px;
+height: 27px;
+left: 982px;
+top: 661px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* Cargo Reservasion System */
+
+position: absolute;
+width: 500px;
+height: 44px;
+left: 786px;
+top: 213px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* image 1 */
+
+position: absolute;
+width: 301px;
+height: 88px;
+left: 49px;
+top: 66px;
+
+background: url(image);
