@@ -12,6 +12,18 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <script defer src="app.js"></script>
+    <style>
+        .btn-login:hover {
+            background-color: #d4af7a !important;
+            color: #141F2E !important;
+        }
+        .btn-tracking:hover {
+            background-color: #c44343 !important;
+        }
+        .link-hover:hover {
+            color: #ffd700 !important;
+        }
+    </style>
 </head>
 
 <body class="bg-white" style="font-family: 'Montserrat', sans-serif; min-height: 970px;">
@@ -28,13 +40,13 @@
                     </a>
                 </div>
                 <nav class="hidden md:flex items-center gap-10 text-sm font-semibold">
-                    <a href="#" class="hover:text-amber-300 transition">Eka Cipta Mandiri</a>
-                    <a href="#" class="hover:text-amber-300 transition">Express Cargo Airlines</a>
-                    <a href="tracking.html" class="hover:text-amber-300 transition">Tracking</a>
+                    <a href="#" class="link-hover transition">Eka Cipta Mandiri</a>
+                    <a href="#" class="link-hover transition">Express Cargo Airlines</a>
+                    <a href="tracking.html" class="link-hover transition">Tracking</a>
                 </nav>
                 <div class="flex items-center gap-4">
-                    <a href="#" class="px-6 py-2 rounded-full text-sm font-bold" style="background:#C89E66;">BOOKING</a>
-                    <a href="index.html" class="px-8 py-2 rounded-full text-sm font-bold"
+                    <a href="#" class="btn-login px-6 py-2 rounded-full text-sm font-bold transition-all duration-300" style="background:#C89E66;">BOOKING</a>
+                    <a href="index.html" class="btn-login px-8 py-2 rounded-full text-sm font-bold transition-all duration-300"
                         style="background:#C89E66;">LOGIN</a>
                 </div>
             </div>
@@ -85,9 +97,9 @@
                             </div> -->
                         </div>
                         <div class="flex items-center justify-center gap-10 w-full">
-                            <a href="tracking-detail.html" class="text-lg font-bold text-white"
+                            <a href="tracking-detail.html" class="btn-tracking text-lg font-bold text-white transition-all duration-300"
                                 style="width: 273px; height: 62px; border-radius: 15px; background:#E85454; box-shadow: 0px 4px 4px rgba(0,0,0,0.25); display:flex; align-items:center; justify-content:center;">TRACKING</a>
-                            <a href="index.html" class="text-lg font-bold"
+                            <a href="index.html" class="btn-login text-lg font-bold transition-all duration-300"
                                 style="width: 273px; height: 62px; border-radius: 15px; background:#141F2E; color:#C89E66; box-shadow: 0px 4px 4px rgba(0,0,0,0.25); display:flex; align-items:center; justify-content:center;">LOGIN</a>
                         </div>
                     </div>

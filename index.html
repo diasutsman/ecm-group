@@ -12,6 +12,18 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
     <script src="app.js"></script>
+    <style>
+        .btn-login:hover {
+            background-color: #d4af7a !important;
+            color: #141F2E !important;
+        }
+        .btn-tracking:hover {
+            background-color: #c44343 !important;
+        }
+        .link-hover:hover {
+            color: #ffd700 !important;
+        }
+    </style>
 </head>
 
 <body class="min-h-screen" style="font-family: 'Montserrat', sans-serif;;">
@@ -83,15 +95,15 @@
                         </label>
                     </div>
                     <div class="flex justify-between gap-6 mt-10">
-                        <a href="tracking.html"    class="text-lg font-bold tracking-wide text-white flex items-center justify-center"  
+                        <a href="tracking.html"    class="btn-login text-lg font-bold tracking-wide text-white flex items-center justify-center transition-all duration-300"  
                             style="background: #141F2E; color: #C89E66; border-radius: 15px; width: 273px; height: 62px; box-shadow: 0px 4px 4px rgba(0,0,0,0.25);">LOGIN</a>
                         <a href="tracking.html"
-                            class="text-lg font-bold tracking-wide text-white flex items-center justify-center"
+                            class="btn-tracking text-lg font-bold tracking-wide text-white flex items-center justify-center transition-all duration-300"
                             style="background: #E85454; border-radius: 15px; width: 273px; height: 62px; box-shadow: 0px 4px 4px rgba(0,0,0,0.25);">TRACKING</a>
                     </div>
                     <div class="text-center mt-10 space-y-2">
-                        <p class="text-white font-extrabold text-xl">SIGN IN</p>
-                        <p class="text-white font-extrabold text-xl">LUPA PASSWORD ?</p>
+                        <a href="#" class="link-hover text-white font-extrabold text-xl block transition-colors">SIGN IN</a>
+                        <a href="#" class="link-hover text-white font-extrabold text-xl block transition-colors">LUPA PASSWORD ?</a>
                     </div>
                 </div>
             </div>
