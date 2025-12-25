@@ -1,4 +1,4 @@
-/* LOGIN */
+/* MASUK */
 
 position: relative;
 width: 1440px;
@@ -426,7 +426,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 border-radius: 15px;
 
 
-/* LOGIN */
+/* MASUK */
 
 position: absolute;
 width: 67px;
@@ -467,7 +467,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 border-radius: 15px;
 
 
-/* TRACKING */
+/* LACAK */
 
 position: absolute;
 width: 110px;
@@ -485,7 +485,7 @@ color: #FFFFFF;
 
 
 
-/* Sign in to start your session */
+/* Silahkan masuk untuk memulai reservasi */
 
 position: absolute;
 width: 208px;
@@ -539,7 +539,7 @@ color: #FFFFFF;
 
 
 
-/* Cargo Reservasion System */
+/* Sistem Reservasi Kargo */
 
 position: absolute;
 width: 500px;

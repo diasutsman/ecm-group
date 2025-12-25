@@ -1,4 +1,4 @@
-/* TRACKING */
+/* LACAK */
 
 position: relative;
 width: 1440px;
@@ -288,7 +288,7 @@ background: #C89E66;
 border-radius: 26px;
 
 
-/* LOGIN */
+/* MASUK */
 
 position: absolute;
 width: 51px;
@@ -327,7 +327,7 @@ top: 21px;
 background: #D9D9D9;
 
 
-/* INPUT SMU TRACKING */
+/* INPUT SMU LACAK */
 
 position: absolute;
 width: 1037px;
@@ -337,7 +337,7 @@ top: 216px;
 
 
 
-/* Track your package */
+/* Lacak Pengiriman  */
 
 position: absolute;
 width: 247px;
@@ -355,7 +355,7 @@ color: #141F2E;
 
 
 
-/* Monday , 05 December 2025 */
+/* Senin , 05 Desember 2025 */
 
 position: absolute;
 width: 200px;
@@ -2725,7 +2725,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 border-radius: 15px;
 
 
-/* TRACKING */
+/* LACAK */
 
 position: absolute;
 width: 110px;
@@ -2766,7 +2766,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 border-radius: 15px;
 
 
-/* LOGIN */
+/* MASUK */
 
 position: absolute;
 width: 67px;

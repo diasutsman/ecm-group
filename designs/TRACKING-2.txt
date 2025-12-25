@@ -1,4 +1,4 @@
-/* TRACKING */
+/* LACAK */
 
 position: relative;
 width: 1440px;
@@ -288,7 +288,7 @@ background: #C89E66;
 border-radius: 26px;
 
 
-/* LOGIN */
+/* MASUK */
 
 position: absolute;
 width: 51px;
@@ -359,7 +359,7 @@ color: #FFFFFF;
 
 
 
-/* Tracking Detail Surat Muatan Udara */
+/* Lacak Detail Surat Muatan Udara */
 
 position: absolute;
 width: 673px;
